@@ -22,8 +22,8 @@
 !.vscode/*.code-snippets
 
 # dependencies
-/node_modules
-/.pnp
+*/node_modules
+*/.pnp
 .pnp.js
-
+.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
